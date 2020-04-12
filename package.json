@@ -1,5 +1,5 @@
 {
-  "name": "sn-matts-bogus-theme",
+  "name": "sn-theme-redclay",
   "version": "1.0.0",
   "main": "dist/dist.css",
   "devDependencies": {
@@ -13,6 +13,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/halcyonquest/matts-bogus-theme.git"
+    "url": "git://github.com/halcyonquest/sn-theme-redclay.git"
   }
 }
