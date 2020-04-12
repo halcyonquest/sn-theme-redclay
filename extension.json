@@ -1,0 +1,18 @@
+{
+  "identifier": "org.halcyonquest.matts-bogus-theme",
+  "name": "Matts Bogus Theme",
+  "content_type": "SN|Theme",
+  "area": "themes",
+  "version": "1.0.0",
+  "description": "A bogus theme for development",
+  "url": "https://raw.githubusercontent.com/halcyonquest/matts-bogus-theme/v1.5/dist/dist.css",
+  "download_url": "https://github.com/halcyonquest/matts-bogus-theme/archive/v1.5.zip",
+  "latest_url": "https://raw.githubusercontent.com/halcyonquest/matts-bogus-theme/master/extension.json",
+  "marketing_url": "https://github.com/halcyonquest/matts-bogus-theme",
+  "dock_icon": {
+    "type": "circle",
+    "background_color": "#372928",
+    "foreground_color": "#d60808",
+    "border_color": "#e50303"
+  }
+}
