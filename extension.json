@@ -1,0 +1,18 @@
+{
+  "identifier": "org.halcyonquest.sn-theme-redclay",
+  "name": "Red Clay",
+  "content_type": "SN|Theme",
+  "area": "themes",
+  "version": "1.0.4",
+  "description": "A red clay theme for Standard Notes",
+  "url": "https://cdn.jsdelivr.net/gh/halcyonquest/sn-theme-redclay/extension.json",
+  "download_url": "https://github.com/halcyonquest/sn-theme-redclay/archive/master.zip",
+  "latest_url": "https://monkeymind.page/p/LbEZX05kVX",
+  "marketing_url": "https://github.com/halcyonquest/sn-theme-redclay",
+  "dock_icon": {
+    "type": "circle",
+    "background_color": "#5c3b3b",
+    "foreground_color": "#5c3b3b",
+    "border_color": "#e6d9d8"
+  }
+}
