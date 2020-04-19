@@ -2,4 +2,4 @@
 
 This is a theme for Standard Notes that primarily features brown(ish) backgrounds and white text with red highlights.
 
-To install use this url from standard notes: [https://monkeymind.page/p/LbEZX05kVX](https://monkeymind.page/p/LbEZX05kVX)
+To install use [this url](https://cdn.jsdelivr.net/gh/halcyonquest/sn-theme-redclay/extension.json) inside standard notes.
